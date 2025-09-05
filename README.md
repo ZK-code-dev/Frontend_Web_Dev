@@ -5,7 +5,7 @@ Welcome to my **frontend web development portfolio**. I’ve been diving into ho
 
 ---
 
-## 🧑‍💻 Learning Journey
+## 💻🌐💡Learning Journey
 
 I really enjoyed seeing how websites are built and learning the different languages used to make them interactive and visually appealing!
 
