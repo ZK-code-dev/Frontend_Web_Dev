@@ -22,6 +22,10 @@ Plus, I’ve been learning a lot from other YouTube tutorials and experimenting 
 - **Simple Mario website** built using HTML and CSS.
 - Future projects: more Frontend Mentor challenges, usage of java (to make sites more interactive), interactive web apps, and personal portfolio projects .
 
+# My Web Projects
+
+Check out my live projects here: [Live Preview](https://zk-code-dev.github.io/Frontend_Web_Dev/)
+
 ---
 
 Feel free to check out the code, try the project yourself, or just explore what I’ve been building!  
