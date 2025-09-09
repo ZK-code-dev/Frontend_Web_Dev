@@ -17,7 +17,7 @@ Plus, I’ve been learning a lot from other YouTube tutorials and experimenting 
 
 ---
 
-## 🌟 Current Projects
+## 🌟 Current Projects:
 
 - **Simple Mario website** built using HTML and CSS.
 - Future projects: more Frontend Mentor challenges, usage of java (to make sites more interactive), interactive web apps, and personal portfolio projects .
