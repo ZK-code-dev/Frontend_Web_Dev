@@ -1,42 +1,57 @@
-# QR Code Component
+# 📱✨ QR Code Component
 
-This is the project I've been working on as part of the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). The goal was to recreate a QR code card component using HTML, CSS, and Figma for design reference.
+This is my solution for the [Frontend Mentor – QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).  
+The goal: Recreate a sleek QR code card using **HTML**, **CSS**, and **Figma** as the design reference. 🎨💻
 
-## Screenshot
+---
 
-![](./qr-code-screenshot.PNG)
+## 📸 Screenshot
 
-## Links
+![screenshot](./qr-code-screenshot.PNG)
 
-- GitHub Repo: [Frontend_Web_Dev](https://github.com/ZK-code-dev/Frontend_Web_Dev)
-- Live Preview: [QR Code Component](https://zk-code-dev.github.io/Frontend_Web_Dev/QR-Code-Component/qr-code-component-main/)
+---
 
-## My Process
+## 🔗 Links
 
-- Followed the Figma design to structure HTML and CSS.
-- Created a card with the QR code image and content (title and description).
-- Used CSS variables, flexbox, and Google Fonts to style and center the component.
-- Focused on matching spacing, border-radius, and typography from Figma.
+- 📂 **GitHub Repo**: [Frontend_Web_Dev](https://github.com/ZK-code-dev/Frontend_Web_Dev)  
+- 🌐 **Live Preview**: [QR Code Component](https://zk-code-dev.github.io/Frontend_Web_Dev/QR-Code-Component/qr-code-component-main/)
 
-### Built With
+---
 
-- HTML5
-- CSS (variables, flexbox)
-- Google Fonts: Outfit
+## 🛠️ My Process
 
-### What I Learned
+- 🖼️ Followed the Figma design to build the structure with HTML & CSS.  
+- 🧩 Created a clean **card layout** with QR code, title, and description.  
+- 🎨 Styled using **CSS variables**, **Flexbox**, and **Google Fonts** for a modern look.  
+- 📏 Paid attention to **spacing, border-radius, and typography** for pixel-perfect design.  
 
-- Translating Figma designs into code.
-- Centering elements using Flexbox.
-- Using CSS variables for consistent colors.
+---
 
-## Author
+### 🏗️ Built With
 
-- GitHub: [ZK-code-dev](https://github.com/ZK-code-dev)
-- Frontend Mentor: [@ZK-code-dev](https://www.frontendmentor.io/profile/ZK-code-dev)
+- ⚡ **HTML5**  
+- 🎨 **CSS** (variables, flexbox)  
+- 🔤 **Google Fonts** → *Outfit*  
 
-## Acknowledgments
+---
 
-- Shout-out to the YouTube tutorials I followed for step-by-step guidance:
-  - [Video 1](https://youtu.be/t7Sp7Ct23KI?si=vu7pYw3Su5EDqc9B)
-  - [Video 2](https://youtu.be/MOsWTckRPfk?si=qPwyQZ55387iSGjb)
+## 📚 What I Learned
+
+- 🖌️ Translating **Figma designs** into responsive code.  
+- 📦 Centering elements perfectly using **Flexbox**.  
+- 🎛️ Leveraging **CSS variables** for consistent colors and reusability.  
+
+---
+
+## 👩‍💻 Author
+
+- 🌐 GitHub: [ZK-code-dev](https://github.com/ZK-code-dev)  
+- 🚀 Frontend Mentor: [@ZK-code-dev](https://www.frontendmentor.io/profile/ZK-code-dev)  
+
+---
+
+## 🙌 Acknowledgments
+
+Special thanks to the YouTube tutorials that guided me:  
+- 🎥 [Full Project Tutorial - Frontend Mentor QR Code Component](https://youtu.be/t7Sp7Ct23KI?si=vu7pYw3Su5EDqc9B)  
+- 🎥 [Staff Level Frontend SOLVES QR Code Component Challenge](https://youtu.be/MOsWTckRPfk?si=qPwyQZ55387iSGjb)  
