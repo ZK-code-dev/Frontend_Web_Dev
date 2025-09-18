@@ -1,0 +1,72 @@
+:root {
+    --light-grey: #d5e1ef;
+    --dark-navy: #1f314f;
+    --grey: #68778d;
+}
+
+*{
+    box-sizing: border-box;
+    --webkit-font-smoothing: antialiased;
+}
+ 
+body {
+    background-color: var(--light-grey);
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+}
+
+.card {
+    width: 320px;
+    background-color: white; 
+    border-radius: 20px;
+    box-shadow: 0 25px 25px 0 hsla(0, 0%, 0%, .0477);
+    height: 499px;
+    overflow: hidden;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card-title {
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 28px;
+    text-align: center;
+    color: var(--dark-navy);
+    margin-top: 24px;
+    margin-bottom: 0;
+}
+
+.card-description {
+    font-size: 15px;
+    font-weight: regular;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.19px;
+    color: var(--grey);
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 16px;
+    margin-bottom: 0;
+}
+
+/*              Media Queries 
+
+@media only screen and (max-width: 480px) {
+
+    }
+}
+    
+*/
